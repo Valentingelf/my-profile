@@ -1,3 +1,3 @@
 # my-profile
 Valentin Gelf profile page
-https://valentingelf.github.io/my-profile/my-profile/index.html
+file:///Users/valentin/Desktop/my-profile/index.html
